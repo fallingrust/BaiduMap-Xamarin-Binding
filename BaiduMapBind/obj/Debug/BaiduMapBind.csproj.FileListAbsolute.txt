@@ -1,0 +1,6 @@
+C:\Users\23722\source\repos\BaiduMapBind\BaiduMapBind\bin\Debug\BaiduMapBind.dll
+C:\Users\23722\source\repos\BaiduMapBind\BaiduMapBind\bin\Debug\BaiduMapBind.pdb
+C:\Users\23722\source\repos\BaiduMapBind\BaiduMapBind\obj\Debug\BaiduMapBind.csprojAssemblyReference.cache
+C:\Users\23722\source\repos\BaiduMapBind\BaiduMapBind\obj\Debug\BaiduMapBind.csproj.CoreCompileInputs.cache
+C:\Users\23722\source\repos\BaiduMapBind\BaiduMapBind\obj\Debug\BaiduMapBind.dll
+C:\Users\23722\source\repos\BaiduMapBind\BaiduMapBind\obj\Debug\BaiduMapBind.pdb
